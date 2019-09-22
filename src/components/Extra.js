@@ -5,7 +5,9 @@ export default class Extra extends Component {
 
     render() {
         return (
-            <div></div>
+            <div>
+                Not done. See Locate Labs ;)
+            </div>
         )
     }
 }

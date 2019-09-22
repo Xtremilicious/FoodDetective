@@ -5,7 +5,7 @@ export default class Valid extends Component {
     render() {
         return (
             <Wrapper>
-                <FrameWrapper scrolling= 'no' src='https://legaldocs.co.in/food-license/check-fssai-license-number' className='container-fluid testy' title='test'></FrameWrapper>
+                Not done. See Locate Labs ;)
             </Wrapper>
         )
     }

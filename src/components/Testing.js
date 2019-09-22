@@ -5,7 +5,7 @@ export default class Testing extends Component {
     render() {
         return (
             <div>
-                Hello from Testing
+                Not done. See Locate Labs ;)
             </div>
         )
     }
